@@ -1,0 +1,7 @@
+# Sửa lại nội dung file dataset.yaml
+train: dataset/images/train
+val: dataset/images/val
+test: dataset/images/test
+
+nc: 29
+names: ['Banh Que Nabati-15000VND', 'Banh Ticky Hong-5000VND', 'Banh Ticky Xanh-5000VND', 'Banh Xop Nabati-5000VND', 'Bo Tuong An-11000VND', 'Dau Em Be Johnson-s-47000VND', 'Dau Xanh Rau Ma-20000VND', 'Hada Labo-70000VND', 'Khau Trang-5000VND', 'Loc Sua Dutch Lady-30000VND', 'Loc Sua Fami Canxi-30000VND', 'Mi Lau Nam-7000VND', 'Milo lon-15000VND', 'Mit Say-25000VND', 'My HaoHao chua cay-4000VND', 'My HaoHao xao-4000VND', 'My Ly Omachi-11000VND', 'Nescafe lon-12000VND', 'Nuoc Khoang-7000VND', 'Nuoc Rua Tay-38000VND', 'Nuoc Tuong-11000VND', 'Nutiboost-28000VND', 'Snack Tom Cay-10000VND', 'Sting Vang-10000VND', 'Sua Bich Dalat Milk-9000VND', 'Sua Rua Mat Acnes-70000VND', 'Tra O Long Tea-12000VND', 'Tra Xanh-10000VND', 'Tuong Ot-15000VND']
