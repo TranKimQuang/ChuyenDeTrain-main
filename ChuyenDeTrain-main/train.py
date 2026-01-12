@@ -25,7 +25,7 @@ model = YOLO("yolov8n.pt")
 # 3️⃣ Bắt đầu quá trình Train
 results = model.train(
     data="dataset.yaml",
-    epochs=30,
+    epochs=50,
     imgsz=640,
     batch=4,
     name="yolov8_final",
